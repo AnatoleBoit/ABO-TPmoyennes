@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace HNI_TPmoyennes
 {
     // Classes fournies par HNI Institut
+    // Ne pas modifier
     class Note
     {
         public int matiere { get; private set; }
