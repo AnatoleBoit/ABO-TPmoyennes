@@ -6,6 +6,7 @@ namespace HNI_TPmoyennes
 {
     class Program
     {
+        // Ne pas modifier
         static void Main(string[] args)
         {
             // Création d'une classe
